@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/WWW-20Q.t
+lib/WWW/20Q.pm
